@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VolMax</string>
+    <string name="process_whatsapp">com.whatsapp</string>
+</resources>

@@ -50,7 +50,7 @@ class MainActivity : AppCompatActivity() {
 
         var ringVolume: Int = 0
 
-        if (checkTime(makeTime(11, 57), makeTime(13, 20))) {
+        if (checkTime(makeTime(13, 30), makeTime(15, 30))) {
             ringVolume = 0
             Log.d("TIME", "Rest time")
         } else {
